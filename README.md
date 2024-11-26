@@ -1,4 +1,4 @@
-# Página de Destinos Turísticos  
+# Página de Receita de Comida  
 
 Este projeto foi desenvolvido como parte de um projeto em conjunto feito com um professor da **Rocketseat**. O objetivo principal é criar uma página com de receita de comida, onde juntamente com o professor pude colocar em prática os conhecimentos adquiridos durante o módulo de aulas.  
 
